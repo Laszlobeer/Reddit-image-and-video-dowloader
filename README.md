@@ -1,4 +1,4 @@
-                          Reddit Image Downloader
+Reddit Image Downloader
 This script allows you to download images from a specific subreddit using Reddit's API and stores them in a local folder. You can specify the subreddit name and the number of images to download.
 
 Features

@@ -53,7 +53,7 @@ cd reddit-image-downloader
 2. Run the script:
 
 ```bash
-python image_downloader.py
+python reddit_downloader.py
 ```
 
 3. Enter the folder name where you'd like to save the images.
